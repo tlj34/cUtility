@@ -1,2 +1,2 @@
 # cUtility
-## Utility written using C/C++
+Utility written using C/C++
